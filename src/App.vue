@@ -1,17 +1,26 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div id="app">
+    <header>
+      <a href="#">
+        <img
+          src="https://ascendix.com/wp-content/uploads/2021/05/Header-Logo.svg"
+          alt="logo"
+        />
+      </a>
+    </header>
+    <catalog-wrapper />
+  </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import CatalogWrapper from "./components/catalog/CatalogWrapper.vue";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    HelloWorld
-  }
-}
+    CatalogWrapper,
+  },
+};
 </script>
 
 <style>
@@ -21,6 +30,14 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+}
+
+header {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  padding-left: 14px;
+  height: 70px;
+  background-color: rgb(90, 234, 253);
 }
 </style>

@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "image": "1.png",
+      "name": "T-shirt, Ascentix",
+      "price": 1500,
+      "article": "T1",
+      "available": true,
+      "category": "Male",
+      "quantity": 1,
+      "description": "Regular fit t-shirts will be neither too tight nor too loose, so they're comfortable to wear in most situations, and won't look out of place. The sleeves typically don't go past your elbows, but they also don't ride up to your biceps (if you have them), like some slim or athletic fitting t-shirts."
+    },
+    {
+      "image": "2.jpg",
+      "name": "Sweater, Ascendix",
+      "price": 1200,
+      "article": "T2",
+      "available": true,
+      "category": "Female",
+      "quantity": 1,
+      "description": "Regular fit t-shirts will be neither too tight nor too loose, so they're comfortable to wear in most situations, and won't look out of place. The sleeves typically don't go past your elbows, but they also don't ride up to your biceps (if you have them), like some slim or athletic fitting t-shirts."
+    },
+    {
+      "image": "3.jpg",
+      "name": "Sweater, X",
+      "price": 980,
+      "article": "T3",
+      "available": false,
+      "category": "Female",
+      "quantity": 1,
+      "description": "Regular fit t-shirts will be neither too tight nor too loose, so they're comfortable to wear in most situations, and won't look out of place. The sleeves typically don't go past your elbows, but they also don't ride up to your biceps (if you have them), like some slim or athletic fitting t-shirts."
+    },
+    {
+      "image": "4.jpg",
+      "name": "Ascendix, Coat",
+      "price": 1680,
+      "article": "T4",
+      "available": true,
+      "category": "Female",
+      "quantity": 1,
+      "description": "Regular fit t-shirts will be neither too tight nor too loose, so they're comfortable to wear in most situations, and won't look out of place. The sleeves typically don't go past your elbows, but they also don't ride up to your biceps (if you have them), like some slim or athletic fitting t-shirts."
+    },
+    {
+      "image": "5.jpg",
+      "name": "Coat, AgileEngine",
+      "price": 1900,
+      "article": "T5",
+      "available": false,
+      "category": "Male",
+      "quantity": 1,
+      "description": "Regular fit t-shirts will be neither too tight nor too loose, so they're comfortable to wear in most situations, and won't look out of place. The sleeves typically don't go past your elbows, but they also don't ride up to your biceps (if you have them), like some slim or athletic fitting t-shirts."
+    },
+    {
+      "image": "6.jpg",
+      "name": "T-shirt 6, Asics",
+      "price": 1799,
+      "article": "T6",
+      "available": true,
+      "category": "Female",
+      "quantity": 1,
+      "description": "Regular fit t-shirts will be neither too tight nor too loose, so they're comfortable to wear in most situations, and won't look out of place. The sleeves typically don't go past your elbows, but they also don't ride up to your biceps (if you have them), like some slim or athletic fitting t-shirts."
+    },
+    {
+      "image": "7.jpg",
+      "name": "Ace Ventura, Adidas",
+      "price": 1399,
+      "article": "T7",
+      "available": true,
+      "category": "Male",
+      "quantity": 1,
+      "description": "Regular fit t-shirts will be neither too tight nor too loose, so they're comfortable to wear in most situations, and won't look out of place. The sleeves typically don't go past your elbows, but they also don't ride up to your biceps (if you have them), like some slim or athletic fitting t-shirts."
+    },
+    {
+      "image": "8.jpg",
+      "name": "T-shirt 8, Puma",
+      "price": 1449,
+      "article": "T8",
+      "available": true,
+      "category": "Female",
+      "quantity": 1,
+      "description": "Regular fit t-shirts will be neither too tight nor too loose, so they're comfortable to wear in most situations, and won't look out of place. The sleeves typically don't go past your elbows, but they also don't ride up to your biceps (if you have them), like some slim or athletic fitting t-shirts."
+    },
+    {
+      "image": "9.jpg",
+      "name": "T-shirt 9, Funny Dancer",
+      "price": 999,
+      "article": "T9",
+      "available": true,
+      "category": "Female",
+      "quantity": 1,
+      "description": "Regular fit t-shirts will be neither too tight nor too loose, so they're comfortable to wear in most situations, and won't look out of place. The sleeves typically don't go past your elbows, but they also don't ride up to your biceps (if you have them), like some slim or athletic fitting t-shirts."
+    }
+  ]
+}
